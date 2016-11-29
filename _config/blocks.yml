@@ -1,0 +1,7 @@
+---
+Name: modular-gridlist-blocks
+---
+Modular\Blocks\GridList:
+  extensions:
+    - Modular\GridList\Fields\Mode
+    - Modular\GridList\Layout\ModeForPage
