@@ -1,0 +1,6 @@
+en:
+  Modular\Blocks\GridList:
+    SINGULARNAME: 'In-Page Grid block'
+    PLURALNAME: 'In-Page Grid blocks'
+    Title:
+      Label: 'In-Page Grid Blocks'
